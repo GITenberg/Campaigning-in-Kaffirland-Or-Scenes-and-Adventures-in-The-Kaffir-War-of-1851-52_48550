@@ -1,10 +1,16 @@
 _repo: Campaigning-in-Kaffirland-Or-Scenes-and-Adventures-in-The-Kaffir-War-of-1851-52_48550
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48550-h/images/cover.jpg
 creator:
   author:
     agent_name: King, W. R.
     gutenberg_agent_id: '44852'
     url: http://www.gutenberg.org/2009/agents/44852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48550#Campaigning-in-Kaffirland-Or-Scenes-and-Adventures-in-The-Kaffir-War-of-1851-52
 gutenberg_issued: '2015-03-22'
 gutenberg_type: Text
 identifiers:
